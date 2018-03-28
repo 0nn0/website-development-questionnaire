@@ -86,10 +86,12 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
 
 ### Tracking
 - Does the existing website have tracking integrated?
-- Tracking plan
-- Name of tracking service, eg. Google Analytics
-- Which pages need to be tracked?
-- What events (if any) need to be tracked? We can track any user actions, from scrolling to a certain block, clicking on a social link to submitting a form.
+- Tracking plan if available
+- Name of tracking service
+- Pages to be tracked
+- Events to be tracked? E.g. user actions like:
+  - Scrolling to a certain block
+  - Clicking on a social link
 
 ### Domain
 - What is the domain to be used for the website?
