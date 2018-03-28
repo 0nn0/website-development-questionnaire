@@ -1,4 +1,4 @@
-To help fellow developers, we published our questionnaire which is a list of questions that can be used when kicking off the  development of a website. It's meant as a guideline or checklist and can be tailored to the client.
+To help fellow developers, we at [Pillar](http://www.pillarstudio.com) published our questionnaire which is a list of questions that can be used when kicking off the  development of a website. It's meant as a guideline or checklist and can be used as a foundation on which to base your proposal.
 
 ## ⚡️ Contribute
 Do you have suggestions on how to further improve the questionnaire? Please create an issue [here](web-development-questionnaire) and submit your feedback.
@@ -6,12 +6,11 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
 ## 🔖 Questionnaire
 
 ### General
-- Project Plan (if available)
 - Name of Client
-- Location of Client
 - Project description
-- Target audience
-- Timeframe
+- Project Plan (if available)
+- Target audience description
+- Timeframe, e.g.:
   - Start design phase
   - End design phase
   - Start development phase
