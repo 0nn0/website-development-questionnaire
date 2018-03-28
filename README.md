@@ -31,6 +31,7 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
 - Does the old website have tracking integrated, e.g. Google Analytics?
 - List of competitor websites
   - Allowing us to inspect the performance of your competitors websites, so we can take this data into account when setting goals in terms of performance.
+- What are the client their goals? Get a sense of their expectations.
 
 ### Content
 - Is there a draft of the content?
