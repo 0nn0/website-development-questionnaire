@@ -1,4 +1,4 @@
-To help fellow developers, we at [Pillar](http://www.pillarstudio.com) published our questionnaire which is a list of questions that can be used when kicking off the  development of a website. It's meant as a guideline or checklist and can be used as a foundation on which to base your proposal.
+We at [Pillar](http://www.pillarstudio.com) published our questionnaire which is a list of questions that can be used when kicking off the  development of a website. It's meant as a guideline or checklist and can be used as a foundation on which to base your proposal.
 
 ## ⚡️ Contribute
 Do you have suggestions on how to further improve the questionnaire? Please create an issue [here](web-development-questionnaire) and submit your feedback.
@@ -65,7 +65,7 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
 
 ### Technologies
 - Do you have a strong preference for a technology stack?
-- Do you have a strong preference for a CMS? E.g. Wordpress, CraftCMS or Flux-Drive.
+- Do you have a strong preference for a CMS?
 
 
 ### Functionalities
@@ -82,22 +82,28 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
     - E.g. animate elements in when scrolled into view
   - Other
 
+
 ### Browser and device support
 - List browser and device support. If your current website its visitors are already being tracked by e.g. Google Analytics, it’s recommended to take these statistics into account.
   - Name of device / Operating-system / Browser-name / Browser-version
-    - E.g. iPhone 5 / iOS 9 / Google Chrome / 42
+    - E.g. iPhone 8 / iOS 11 / Google Chrome / 65
 - What’s the largest screen size targeted? E.g. 27” could potentially take additional time if additional breakpoint(s) need to be implemented.
 
-### Hosting
-- What is the domain for the website?
-- Is the domain currently in use? If yes, do you know the average amount of unique visitors in a monthly basis?
+
+### Domain
+- What is the domain to be used for the website?
+- Is the domain currently in use?
 - Where is the domain currently registered? E.g. GoDaddy
-- Are there any email accounts attached to the domain?
+- Are there any email accounts connected to the domain?
 - Will this domain solely be used for the website, or also for other purposes? E.g. a client FTP?
+
+
+### Hosting
 - What are the specifications of the current server?
 - Do you have a strong preference for a hosting provider and server setup?
 - Will the deployment of the application be done in-house or by Pillar?
 - Do you require any maintenance service in constant basis? E.g. Tracking the server and taking actions, if necessary.
+
 
 ### Tracking
 - Tracking plan
@@ -105,9 +111,15 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
 - Which pages need to be tracked?
 - What events (if any) need to be tracked? We can track any user actions, from scrolling to a certain block, clicking on a social link to submitting a form.
 
-### Feedback
-- How many feedback rounds are needed?
+
+### Quality Assurance
+- Who will execute the Quality Assurance? Ideally external partner.
+- How many rounds?
+
+
+### Lauch
+- Extra support when website goes live?
+
 
 ### Post-launch
 - What are the post-launch plans for the website? E.g. expanding it with feature X and Y or moving the web development in-house?
-- Do you have any developers in-house?
