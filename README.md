@@ -28,19 +28,6 @@ The web development questionnaire is a list of questions that can be used when k
 - List of competitor websites
   - Allowing us to inspect the performance of your competitors websites, so we can take this data into account when setting goals in terms of performance.
 
-### Design
-- Who is responsible for the design?
-- Wireframes (if available)
-- Designs in Sketch
-  - Includes hover, active and focus states
-- Current state of design
-- Typography
-  - Font files (At least TTF or OTF)
-  - Which fonts are being used?
-  - Has the license to use the fonts been acquired? Which font extensions does the license allow?
-  - For each font, what is the name(s) of the system font used as a fallback?
-  - Can they be hosted on the same server as the website or do we need to resort to cloud based services like TypeKit or Google Fonts?
-  
 ### Content
 - Is there a draft of the content?
 - What type of content will be displayed per page? E.g.:
@@ -56,22 +43,35 @@ The web development questionnaire is a list of questions that can be used when k
     - Custom HTML5 player
   - Other
 
+### Design
+- Who is responsible for the design?
+- Wireframes (if available)
+- Designs in Sketch
+  - Includes hover, active and focus states
+- Current state of design
+- Typography
+  - Font files (At least TTF or OTF)
+  - Which fonts are being used?
+  - Has the license to use the fonts been acquired? Which font extensions does the license allow?
+  - For each font, what is the name(s) of the system font used as a fallback?
+  - Can they be hosted on the same server as the website or do we need to resort to cloud based services like TypeKit or Google Fonts?
+
 ### Technologies
 - Do you have a strong preference for a technology stack?
 - Do you have a strong preference for a CMS?
 
 ### Functionalities
-- Front-end functionalities
-  - E.g. a looping carousel of images with controls and plays automatically
-    - E.g. a form to subscribe to a newsletter or request a demo
-    - E.g. receive a confirmation email when submitting the contact form
-- Back-end functionalities
-  - E.g. ability to manually sort projects in the CMS
+- Front-end functionalities, e.g.:
+  - Looping carousel of images with controls and plays automatically
+  - Form to subscribe to a newsletter or request a demo
+  - Confirmation email when submitting the contact form
+- Back-end functionalities, e.g.:
+  - Ability to manually sort projects in the CMS
 - Any ideas/preferences regarding:
-  - Behaviour
-    - E.g. fixed header in the top when scrolling down
-  - Animations
-    - E.g. animate elements in when scrolled into view
+  - Behaviour, e.g.:
+    - Fixed header in the top when scrolling down
+  - Animations, e.g.:
+    - Animate-in elements in when scrolled into view
   - Other
 
 ### Browser and device support
