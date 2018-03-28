@@ -1,8 +1,8 @@
 # Web development questionnaire
-A questionnaire or checklist for your client when you kickoff the design and development of a website.
+To help fellow developers, we published our questionnaire of questions that can be used when kicking off the design and development of a website. It's meant as a guideline or checklist, nothing more.
 
 ## ⚡️ Contribute
-Do you have suggestions on how to further improve the questionnaire? Please create an issue and submit your feedback.
+Do you have suggestions on how to further improve the questionnaire? Please create an issue [here](https://github.com/pillarstudio/web-design-development-questionnaire/issues) and submit your feedback.
 
 ## Questionnaire
 
