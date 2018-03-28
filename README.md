@@ -5,7 +5,7 @@ The web development questionnaire is a list of questions that can be used when k
 ### General
 - Name of Client
 - Project description
-- Project Plan (if available)
+- Project plan (if available)
 - Target audience description
 - Timeframe, e.g.:
   - Start design phase
@@ -17,7 +17,8 @@ The web development questionnaire is a list of questions that can be used when k
   - Start Quality Assurance
   - Launch
 - Budget range for development
-  - Setting up a proposal is a time consuming process. We'd like to ensure as soon as possible that we are the right partner.
+  - Setting up a proposal is a time consuming process. Therefore it's good to ensure that you are the right partner before setting one up.
+- Languages to support
 - Sitemap
   - Don’t forget pages like Terms and Conditions, Privacy Policy, 404…
 
@@ -95,14 +96,13 @@ The web development questionnaire is a list of questions that can be used when k
 ### Hosting
 - What are the specifications of the current server?
 - Do you have a strong preference for a hosting provider and server setup?
-- Will the deployment of the application be done in-house or by Pillar?
+- Will the deployment of the application be done in-house or by us?
 - Do you require any maintenance service in constant basis? E.g. Tracking the server and taking actions, if necessary.
 
 ### Quality Assurance
-- Who will execute the Quality Assurance? Ideally external partner.
-- How many rounds?
+- Who should execute the Quality Assurance? Ideally external partner, not client or developers.
 
-### Lauch
+### Launch
 - Extra support when website goes live?
 
 ### Post-launch
