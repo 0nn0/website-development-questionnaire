@@ -10,7 +10,6 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
 - Name of Client
 - Project description
 - Project plan (if available)
-- Target audience description
 - Timeframe, e.g.:
   - Start design phase
   - End design phase
@@ -22,18 +21,18 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
   - Launch
 - Budget range for development
   - Setting up a proposal is a time consuming process. Therefore it's good to ensure that you are the right partner before setting one up.
-- Languages to support
 - Sitemap
   - Don’t forget pages like Terms and Conditions, Privacy Policy, 404…
 
 ### Research
-- Reasons for the new website? E.g. what was wrong with the old one?
-- Does the old website have tracking integrated, e.g. Google Analytics?
+- Description of target audience
+- Reasons for new website? E.g. what was wrong with the existing one?
 - List of competitor websites
   - Allowing us to inspect the performance of your competitors websites, so we can take this data into account when setting goals in terms of performance.
 - What are the client their goals? Get a sense of their expectations.
 
 ### Content
+- Which languages need to be supported? Will this change in the future?
 - Is there a draft of the content?
 - What type of content will be displayed per page? E.g.:
   - Text
@@ -86,6 +85,7 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
 - What’s the largest screen size targeted? E.g. 27” could potentially take additional time if additional breakpoint(s) need to be implemented.
 
 ### Tracking
+- Does the existing website have tracking integrated?
 - Tracking plan
 - Name of tracking service, eg. Google Analytics
 - Which pages need to be tracked?
