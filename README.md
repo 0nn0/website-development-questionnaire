@@ -105,7 +105,7 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
 - Any data that needs to be migrated?
 - Who will be responsible for the deployment?
 
-### Quality Assurance
+### Quality assurance
 - Who should execute the Quality Assurance? Ideally external partner, not client or developers.
 
 ### Launch
