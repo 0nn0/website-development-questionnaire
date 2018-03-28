@@ -54,15 +54,15 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
   - Includes hover, active and focus states
 - Current state of design
 - Typography
-  - Font files (At least TTF or OTF)
   - Which fonts are being used?
   - Has the license to use the fonts been acquired? Which font extensions does the license allow?
+  - Font files (At least TTF or OTF)
   - For each font, what is the name(s) of the system font used as a fallback?
   - Can they be hosted on the same server as the website or do we need to resort to cloud based services like TypeKit or Google Fonts?
 
 ### Technologies
-- Do you have a strong preference for a technology stack?
-- Do you have a strong preference for a CMS?
+- Preference for a technology stack?
+- Preference for a CMS?
 
 ### Functionalities
 - Front-end functionalities, e.g.:
@@ -99,10 +99,9 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
 - Will this domain solely be used for the website, or also for other purposes? E.g. a client FTP?
 
 ### Hosting
-- What are the specifications of the current server?
-- Do you have a strong preference for a hosting provider and server setup?
-- Will the deployment of the application be done in-house or by us?
-- Do you require any maintenance service in constant basis? E.g. Tracking the server and taking actions, if necessary.
+- Preference for a hosting provider and server setup?
+- Any data that needs to be migrated?
+- Who will be responsible for the deployment?
 
 ### Quality Assurance
 - Who should execute the Quality Assurance? Ideally external partner, not client or developers.
