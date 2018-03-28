@@ -46,8 +46,8 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
   
   
 ### Content
-- Draft
-- What type of content will be displayed? E.g.:
+- Is there a draft of the content?
+- What type of content will be displayed per page? E.g.:
   - Text
   - Images
   - Video, integrated as:
@@ -59,9 +59,6 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
     - Default HTML5 player
     - Custom HTML5 player
   - Other
-- Describe content for each page
-  - E.g. the About page will contain a headline, body-text and for each team member a photo incl name and description
-
 
 ### Technologies
 - Do you have a strong preference for a technology stack?
