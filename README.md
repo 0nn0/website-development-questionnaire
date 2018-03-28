@@ -75,7 +75,7 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
   - Behaviour, e.g.:
     - Fixed header in the top when scrolling down
   - Animations, e.g.:
-    - Animate-in elements in when scrolled into view
+    - Animate-in elements when scrolled into view
   - Other
 
 ### Browser and device support
