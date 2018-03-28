@@ -1,4 +1,8 @@
+# Web Development Questionnaire
 The web development questionnaire is a list of questions that can be used when kicking off the development of a website. It's meant as a guideline or checklist and can be used as a foundation on which to base your proposal.
+
+## ⚡️ Contribute
+Do you have suggestions on how to further improve the questionnaire? Please create an issue [here](web-development-questionnaire) and submit your feedback.
 
 ## 🔖 Questionnaire
 
@@ -107,6 +111,3 @@ The web development questionnaire is a list of questions that can be used when k
 
 ### Post-launch
 - What are the post-launch plans for the website? E.g. expanding it with feature X and Y or moving the web development in-house?
-
-## ⚡️ Contribute
-Do you have suggestions on how to further improve the questionnaire? Please create an issue [here](web-development-questionnaire) and submit your feedback.
