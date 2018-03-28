@@ -111,4 +111,6 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
 - Extra support when website goes live?
 
 ### Post-launch
-- What are the post-launch plans for the website? E.g. expanding it with feature X and Y or moving the web development in-house?
+- What are the post-launch plans for the website? E.g.:
+  - Expand it with feature X and Y
+  - Move the development in-house
