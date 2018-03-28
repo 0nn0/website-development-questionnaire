@@ -1,4 +1,4 @@
-To help fellow developers, we published our questionnaire of questions that can be used when kicking off the design and development of a website. It's meant as a guideline or checklist, nothing more.
+To help fellow developers, we published our questionnaire which is a list of questions that can be used when kicking off the  development of a website. It's meant as a guideline or checklist and can be tailored to the client.
 
 ## ⚡️ Contribute
 Do you have suggestions on how to further improve the questionnaire? Please create an issue [here](web-development-questionnaire) and submit your feedback.
