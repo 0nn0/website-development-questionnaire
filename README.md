@@ -32,7 +32,8 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
   - Allowing us to inspect the performance of your competitors websites, so we can take this data into account when setting goals in terms of performance.
 
 
-### Company name and people responsible for the design
+### Design
+- Who is responsible for the design?
 - Wireframes (if available)
 - Designs in Sketch
   - Includes hover, active and focus states
