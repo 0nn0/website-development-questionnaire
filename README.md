@@ -1,5 +1,5 @@
 # Web Development Questionnaire
-The web development questionnaire is a list of questions that can send your client to get a clear idea of what the they need. The answers can then be used as a foundation on which you can base your proposal.
+The web development questionnaire is a list of questions that can send your client to get a clear idea of what they need. It should be used as a guideline/checklist and tailored to your client. The answers can then be used as a foundation on which you can base your proposal.
 
 ## ⚡️ Contribute
 Do you have suggestions on how to further improve the questionnaire? Please create an issue [here](web-development-questionnaire) and submit your feedback.
@@ -12,11 +12,10 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
 - Project plan (if available)
 - Timeframe, e.g.:
   - Start design phase
-  - End design phase
   - Start development phase
-  - End development phase
-  - Receive first draft of content
+  - Receive first draft of static content
   - Receive final static content
+  - Client receives access to CMS
   - Start Quality Assurance
   - Launch
 - Budget range for development
@@ -29,46 +28,49 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
 - Reasons for new website? E.g. what was wrong with the existing one?
 - List of competitor websites
   - Allowing us to inspect the performance of your competitors websites, so we can take this data into account when setting goals in terms of performance.
-- What are the client their goals? Get a sense of their expectations.
+- What are the client their goals? When will it be a success and how can this be measured? 
 
 ### Content
-- Which languages need to be supported? Will this change in the future?
 - Is there a draft of the content?
+- Which languages need to be supported? Will this change in the near future?
 - What type of content will be displayed per page? E.g.:
   - Text
   - Images
-  - Video, integrated as:
-    - Embed (Vimeo/Youtube)
-    - Default HTML5 player
-    - Custom HTML5 player
-  - Audio, integrated as:
-    - Embed (e.g. SoundCloud)
-    - Default HTML5 player
-    - Custom HTML5 player
+  - Videos
+  - Audio
   - Other
 
 ### Design
 - Who is responsible for the design?
-- Wireframes (if available)
-- Designs in Sketch
-  - Includes hover, active and focus states
-- Current state of design
+- Wireframes
+- Designs
+  - Which format? Sketch/Figma/...
+  - Ensure it includes hover, active and focus states
+  - What's the current state?
 - Typography
-  - Which fonts are being used?
+  - Which fonts will be used?
   - Has the license to use the fonts been acquired? Which font extensions does the license allow?
-  - Font files (At least TTF or OTF)
-  - For each font, what is the name(s) of the system font used as a fallback?
+  - What font files are available? (woff & woff2)
+  - For each font, what is the name(s) of the system font to be used as a fallback?
   - Can they be hosted on the same server as the website or do we need to resort to cloud based services like TypeKit or Google Fonts?
 
 ### Technologies
 - Preference for a technology stack?
-- Preference for a CMS?
+- Is a Content Management System (CMS) needed to maintain dynamic content? If yes,
+  - Preference for a CMS?
+  - Self-hosted or headless?
+  - How often will the site be updated? 
+  - How many people will be using the CMS?
 
 ### Functionalities
 - Front-end functionalities, e.g.:
   - Looping carousel of images with controls and plays automatically
   - Form to subscribe to a newsletter or request a demo
   - Confirmation email when submitting the contact form
+  - Video, integrated as:
+    - Embed (Vimeo/Youtube)
+    - Default HTML5 player
+    - Custom HTML5 player
 - Back-end functionalities, e.g.:
   - Ability to manually sort projects in the CMS
 - Any ideas/preferences regarding:
@@ -92,6 +94,9 @@ Do you have suggestions on how to further improve the questionnaire? Please crea
 - Events to be tracked? E.g. user actions like:
   - Scrolling to a certain block
   - Clicking on a social link
+
+### SEO
+- Is the site publically available?
 
 ### Domain
 - What is the domain to be used for the website?
