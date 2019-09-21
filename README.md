@@ -1,8 +1,8 @@
-# Web Development Questionnaire
-The web development questionnaire is a list of questions that can send your client to get a clear idea of what they need. It should be used as a guideline/checklist and tailored to your client/project. The answers can then be used as a foundation on which you can base your proposal.
+# Website Development Questionnaire
+The web development questionnaire is a list of questions that can send your client to get a clear idea of what their needs are. It should be used as a guideline/checklist and tailored to your client/project. The answers can then be used as a foundation on which you can base your proposal.
 
 ## ⚡️ Contribute
-Do you have suggestions on how to further improve the questionnaire? Please create an issue [here](web-development-questionnaire) and submit your feedback.
+Do you have suggestions on how to further improve the questionnaire? Please create an issue [here](website-development-questionnaire) and submit your feedback.
 
 ## 🔖 Questionnaire
 
